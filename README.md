@@ -1,2 +1,2 @@
 # hellow-world
-First program to learn how to use GitHub.
+"It is better to be feared than loved, if you cannot be both." - Niccolò Machiavelli
